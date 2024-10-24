@@ -29,8 +29,10 @@ Usage: C:\Windows\Temp\L1LKiller\L1LKiller.exe [OPTIONS]
 ```
 
 ## Usage
+
+In cmd.exe as administrator:
 ```
 sc create l1lkiller binPath="C:\Windows\Temp\L1LKiller\L1LKiller.sys" type=kernel
 sc start l1lkiller
-.\L1LKiller.exe single
+L1LKiller.exe single
 ```
