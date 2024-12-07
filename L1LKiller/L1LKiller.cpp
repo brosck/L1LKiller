@@ -273,7 +273,7 @@ VOID Banner() {
    / /___/ / /___/ /| |/ / / /  __/ /    
   /_____/_/_____/_/ |_/_/_/_/\___/_/     
                                        
-            [Coded by MrEmpy]
+            [Coded by Brosck]
                  [v1.0]
 
 )EOF");
