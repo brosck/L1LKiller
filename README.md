@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/e9ec29cb-6869-44c2-8649-0a545c30d2e9
    / /___/ / /___/ /| |/ / / /  __/ /
   /_____/_/_____/_/ |_/_/_/_/\___/_/
 
-            [Coded by MrEmpy]
+            [Coded by Brosck]
                  [v1.0]
 
 Usage: C:\Windows\Temp\L1LKiller\L1LKiller.exe [OPTIONS]
